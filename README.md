@@ -2,13 +2,6 @@
 
 **If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are at a right place , here i am going to provide all resources related to GATE and CSE(Computing Science & Engineering)**
 
-<img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/Computer-Science.jpg"
-width="1000">
-
-```ruby
-Check Out The Resources and keep exploring
-
-```
 
 # Core Subjects (CSE) and GATE
 
@@ -75,11 +68,6 @@ Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xK
 
 **For PYQ Gate Questions .
 Click here <a href="https://pyq.ravindrababuravula.com/">PYQ RBR</a>**
-
-
-<img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
-width="1000">
-
 
 # GATE Organizing Institutes (Since 1995)
 
@@ -319,6 +307,8 @@ width="1000">
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
 5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+
+6 :- <a href="https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O">Abdul Bari</a>
 
 **Other Resources**
 
