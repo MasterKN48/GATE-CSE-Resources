@@ -1,7 +1,5 @@
 # GATE-and-CSE-Resources-for-Students 📚📚
 
-**If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are at a right place , here i am going to provide all resources related to GATE and CSE(Computing Science & Engineering)**
-
 
 # Core Subjects (CSE) and GATE
 
@@ -27,23 +25,7 @@
 
 10:- Computer Architecture/ Organization
 
-(Not Included In Gate)
-
-11:- Java
-
-12:- Artificial Intelligence
-
-13 :- Software Engineering
-
-14 :- Micro Processor
-
-15 :- Python
-
-16 :- IOT
-
-17 :- Cloud Computing
-
-18 :- Engineering Mathematics
+11 :- Engineering Mathematics
 
 ```
 
