@@ -168,7 +168,7 @@ width="1000">
 
 2 :- <a href="https://www.youtube.com/channel/UCkGS_3D0HEzfflFnG0bD24A">Programming in C by Saurabh Shukla</a>
 
-3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+3 :- <a href="https://www.youtube.com/playlist?list=PL4hV_Krcqz_JhUAojsTolbrTarJPrtzvM">SuccessGateway</a>
 
 **Other Resources**
 
@@ -274,6 +274,7 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
+5 :- <a href="https://www.youtube.com/playlist?list=PL4hV_Krcqz_JaY3JmbrDgy5tipHrOmGBW">SuccessGateway</a>
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
