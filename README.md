@@ -162,6 +162,8 @@ Click here <a href="https://pyq.ravindrababuravula.com/">PYQ RBR</a>**
 
 4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
 
+5 :- <a href='https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O'>Abdul Bari Gate</a>
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
