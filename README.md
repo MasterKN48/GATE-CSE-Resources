@@ -32,6 +32,9 @@
 **For GATE Syllabus 
 Click here <a href="https://github.com/masterkn48/GATE-and-CSE-Resources-for-Students/tree/master/Gate_Syllabus">GATE 2021 Syllabus</a>** 
 
+**Gate Cut-off
+Click here <a href="https://engineering.careers360.com/articles/gate-cutoff#Previous-Year-GATE-Cutoff-Trends-2020-2019-2018-2017-2016-2015">Last 6 years</a>**
+
 **For PYQ Gate Questions .
 Click here <a href="https://pyq.ravindrababuravula.com/">PYQ RBR</a>**
 
@@ -46,6 +49,7 @@ Click here <a href="https://drive.google.com/open?id=1O57SsyEBgvTQwUjXoIfH1Uqsab
 
 **For Gate Academy Notes .
 Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xKgvohr1">Gate Academy</a>**
+
 
 # GATE Organizing Institutes (Since 1995)
 
