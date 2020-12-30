@@ -3,7 +3,7 @@
 
 # Core Subjects (CSE) and GATE
 
-```ruby
+```js
 
 1:- C Programming And Data Structure
 
@@ -83,12 +83,17 @@ Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xK
 
 **Youtube Lectures**
 
-1:- <a href="https://www.youtube.com/watch?v=RW42KXPaw_A&list=PLmXKhU9FNesTSqP8hWDncxpCj8a4uzmu7">Sets Theory</a>
-2:- <a href="https://www.youtube.com/watch?v=YMRO8i4-_q8&list=PLmXKhU9FNesQxcibunbD82NTQMBKVUO1S">Propositional logic</a>
-3:- <a href="https://www.youtube.com/watch?v=7ifHq5J58cE&list=PLmXKhU9FNesQrSgLxm6zx3XxH_M_8n3LA">Group Theory</a>
-4:- <a href="https://www.youtube.com/watch?v=icOLoZ02W8E&list=PLmXKhU9FNesSSV7OuOH-Uu6Cunsyn9PUD">Functions</a>
-5:- <a href="https://www.youtube.com/playlist?list=PLmXKhU9FNesS7GpOddHDX3ZCl86_cwcIn">Graph Theory</a>
-6:- <a href="https://www.youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq">Relations</a>
+1 :- <a href="https://www.youtube.com/watch?v=RW42KXPaw_A&list=PLmXKhU9FNesTSqP8hWDncxpCj8a4uzmu7">Sets Theory</a>
+
+2 :- <a href="https://www.youtube.com/watch?v=YMRO8i4-_q8&list=PLmXKhU9FNesQxcibunbD82NTQMBKVUO1S">Propositional logic</a>
+
+3 :- <a href="https://www.youtube.com/watch?v=7ifHq5J58cE&list=PLmXKhU9FNesQrSgLxm6zx3XxH_M_8n3LA">Group Theory</a>
+
+4 :- <a href="https://www.youtube.com/watch?v=icOLoZ02W8E&list=PLmXKhU9FNesSSV7OuOH-Uu6Cunsyn9PUD">Functions</a>
+
+5 :- <a href="https://www.youtube.com/playlist?list=PLmXKhU9FNesS7GpOddHDX3ZCl86_cwcIn">Graph Theory</a>
+
+6 :- <a href="https://www.youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq">Relations</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -96,10 +101,13 @@ Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xK
 
 **Youtube Lectures**
 
-1:- <a href="https://www.youtube.com/watch?v=JcIWFDI0w1g">Calculus Crash Course</a>
-2:- <a href="https://www.youtube.com/playlist?list=PLNEqvET0cb66g5UlAzxhzvj6EZLtgsIww">Complete Engineering mathemantics</a>
-3:- <a href="https://www.youtube.com/playlist?list=PLMaNnDEjr-rUiVxg6mN3TlAgjcmvWW3X_">Linear Algreba</a>
-4:- <a href="https://www.youtube.com/playlist?list=PLPiOSvowot1Lc6vs4tMzjTbUIVWVuuamb">Probablity and distributions</a>
+1 :- <a href="https://www.youtube.com/watch?v=JcIWFDI0w1g">Calculus Crash Course</a>
+
+2 :- <a href="https://www.youtube.com/playlist?list=PLNEqvET0cb66g5UlAzxhzvj6EZLtgsIww">Complete Engineering mathemantics</a>
+
+3 :- <a href="https://www.youtube.com/playlist?list=PLMaNnDEjr-rUiVxg6mN3TlAgjcmvWW3X_">Linear Algreba</a>
+
+4 :- <a href="https://www.youtube.com/playlist?list=PLPiOSvowot1Lc6vs4tMzjTbUIVWVuuamb">Probablity and distributions</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
